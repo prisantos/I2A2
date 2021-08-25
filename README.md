@@ -17,7 +17,7 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-sobre-o-curso">Sobre</a> •
  <a href="#-projetos desenvolvidos">Projetos desenvolvidos</a> •
  <a href="#-experiência">Experiência</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -25,6 +25,15 @@
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
+
+## 💻 Sobre o Curso
+
+---
+
+## 🚀 Projetos Desenvolvidos 
+
+---
+
 
 📕 Arquivo "README" disponibilizado por tgmarinho. Para saber mais: https://github.com/tgmarinho/README-ecoleta/blob/master/README.md
 
