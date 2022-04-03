@@ -13,7 +13,7 @@
   </a>
 
 <h4 align="center"> 
-    Projetos do Curso de NLP do I2A2 🚀 
+    Projetos do Curso do I2A2 🚀 
 </h4>
 
 <p align="center">
